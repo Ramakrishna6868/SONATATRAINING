@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class GCDOfTwoNumbers {
 	static int GCD(int x,int y)

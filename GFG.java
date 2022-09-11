@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 import java.util.Scanner;
 

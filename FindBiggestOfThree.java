@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class FindBiggestOfThree {
 	static int biggestOfThree(int x,int y,int z)

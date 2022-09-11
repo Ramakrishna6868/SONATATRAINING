@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class SwapXOR {
 	static void swapValuesUsingXOROperator(int m,int n)

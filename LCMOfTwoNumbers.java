@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class LCMOfTwoNumbers {
 	static int GCD(int u,int v)

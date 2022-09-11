@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class GFGSwapWithoutTemp {
 	static void swapValuesWithoutUsingThirdVariable(int m,int n)

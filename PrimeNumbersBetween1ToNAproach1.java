@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class PrimeNumbersBetween1ToNAproach1 {
 	static void prime_N(int N)

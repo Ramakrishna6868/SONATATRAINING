@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class TestEvenOdd {
 	public static void main(String[] args) {

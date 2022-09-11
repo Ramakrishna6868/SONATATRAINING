@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class DebugPractice {
 	public static void main(String[] args) {

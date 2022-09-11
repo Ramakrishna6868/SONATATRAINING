@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class CheckArmstrong {
 	static void armstrongNum(int l,int h)

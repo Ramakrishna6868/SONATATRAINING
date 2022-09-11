@@ -1,4 +1,4 @@
-package javatraining;
+package javaindebuggingmode;
 
 public class AddBinaryStrings {
 	static String add_Binary(String x,String y)
